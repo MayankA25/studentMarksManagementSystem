@@ -1,0 +1,1 @@
+speak("Enter 1 for entering new records, 2 for adding more to existing records, 3 to display records, 4 to modify records, 5 to delete records, 6 to display all the records, 7 to clear the file, 8 to arrange records roll number wise and 9 to arrange records marks wise hisghest to lowest")
